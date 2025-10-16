@@ -14,3 +14,5 @@ Visual Studio: Ask Jay
 
 Note that making a brach for yourself might be needed idk
 
+Lastly if needed you can add stuff manually with copy paste just make a new branch for it unless not needed
+

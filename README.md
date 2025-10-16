@@ -2,6 +2,8 @@
 
 add any major changes here
 
+Student Organizer/ Agenda with queues and linked lists
+
 To get this in your own machine:
 
 VS Code: copy repoitory in the green code button and copy paste link in there or use in software way

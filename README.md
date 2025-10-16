@@ -12,3 +12,5 @@ to push a change to github use 1. git add . 2. git commit -m "whatever" 3. git p
 
 Visual Studio: Ask Jay
 
+Note that making a brach for yourself might be needed idk
+
